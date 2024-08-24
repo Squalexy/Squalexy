@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Portuguese/French geek and a recent **Software Engineering** graduate. I started learning video editing at the age of 11 and, ever since then, I have been freelancing since I was 20. Even though I absolutely love both fields, no, I do not believe AI can replace this art :)
+I’m a Portuguese/French geek and a recent **Software Engineering** graduate. I started learning video editing at the age of 11 and, ever since then, I have been freelancing since I was 20. Even though I absolutely love both fields, no, I do not believe AI can replace this art ;)
 
 My academic record is as follows:
 - Cinema (BSc, 2014-2017)
