@@ -49,7 +49,7 @@ My favorite hobbies include:
 
 ---
 
-###  :rocket: Interested In Learning
+###  :rocket: Plan To Learn
 
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=Django&logoColor=%23092E20&labelColor=black) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=MongoDB&logoColor=%2347A248&labelColor=black) 
