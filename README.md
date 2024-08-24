@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 
 I’m a Portuguese/French geek and a recent **Software Engineering** graduate. My journey in video editing began when I was just 11 and I wrote my first line of code 5 years ago. I'm passionate about problem-solving, management, and development, aiming to become a Fullstack Software Engineer. Even though I absolutely love both fields, no, I do not believe AI can replace this art ;). I am very excited to start this new journey!
 
