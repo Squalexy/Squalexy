@@ -28,6 +28,14 @@ My favorite hobbies include:
 ![Javascript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black)
 
 
+![Lightroom](https://img.shields.io/badge/Lightroom-%2331A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=%2331A8FF&labelColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=%2331A8FF&labelColor=black)
+![Premiere](https://img.shields.io/badge/Premiere-%239999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=%239999FF&labelColor=black)
+![After](https://img.shields.io/badge/After%20Effects-%239999FF?style=flat&logo=Adobe%20After%20Effects&logoColor=%239999FF&labelColor=black)
+![Audition](https://img.shields.io/badge/Audition-%239999FF?style=flat&logo=Adobe%20Audition&logoColor=%239999FF&labelColor=black)
+![InDesign](https://img.shields.io/badge/InDesign-%23FF3366?style=flat&logo=Adobe%20InDesign&logoColor=%23FF3366&labelColor=black)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=%23FF9A00&labelColor=black)
+![DaVinci](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51?style=flat&logo=DaVinci%20Resolve&logoColor=%23233A51&labelColor=black)
 
 
 ---
