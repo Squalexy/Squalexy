@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Portuguese/French geek and a recent **Software Engineering** graduate. I started learning video editing at the age of 11 and, ever since then, I have been freelancing since I was 20. Even though I absolutely love both fields, no, I do not believe AI can replace this art ;)
+I’m a Portuguese/French geek and a recent **Software Engineering** graduate. My journey in video editing began when I was just 11 and I wrote my first line of code 5 years ago. I'm passionate about problem-solving, management, and development, aiming to become a Fullstack Software Engineer. Even though I absolutely love both fields, no, I do not believe AI can replace this art ;). I am very excited to start this new journey!
 
 My academic record is as follows:
 - Cinema (BSc, 2014-2017)
@@ -11,6 +11,8 @@ My academic record is as follows:
 My favorite hobbies include:
 
 :swimmer: swimming :video_game: videogames :camera: photography :movie_camera: movies and tv shows :computer: video editing :books: reading
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Squalexy&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
