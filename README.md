@@ -28,7 +28,8 @@ My favorite hobbies include:
 ### :computer: Skills 
 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=%233776AB&labelColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=%2300599C&labelColor=black) 
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=%2300599C&labelColor=black)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=%231572B6&labelColor=black) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=PostgreSQL&logoColor=%234169E1&labelColor=black) 
 ![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=C&logoColor=%23A8B9CC&labelColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=HTML5&logoColor=%23E34F26&labelColor=black) 
@@ -52,7 +53,6 @@ My favorite hobbies include:
 ###  :book: Currently Learning 
 
 ![React](https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat&logo=react&logoColor=%2361DAFB&labelColor=black)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=%231572B6&labelColor=black) 
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=Docker&logoColor=%232496ED&labelColor=black)
 
 ---
