@@ -52,6 +52,7 @@ My favorite hobbies include:
 
 ###  :book: Currently Learning 
 
+![Django](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=Django&logoColor=%23092E20&labelColor=black) 
 ![React](https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat&logo=react&logoColor=%2361DAFB&labelColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=Docker&logoColor=%232496ED&labelColor=black)
 
@@ -59,7 +60,6 @@ My favorite hobbies include:
 
 ###  :rocket: Plan To Learn
 
-![Django](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=Django&logoColor=%23092E20&labelColor=black) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=MongoDB&logoColor=%2347A248&labelColor=black) 
 ![TS](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=%233178C6&labelColor=black) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat&logo=Kubernetes&logoColor=%23326CE5&labelColor=black)
